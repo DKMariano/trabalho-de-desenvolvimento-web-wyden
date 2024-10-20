@@ -16,7 +16,7 @@ A aplicação desenvolvida inclui as seguintes especificações:
 
 ### Conclusão do Trabalho
 
-O trabalho foi entregue em forma de uma aplicação web de um **sistema de gerenciamento de jogos**, permitindo que o usuário liste, ordene, busque e detalhe os jogos. A aplicação também possui um sistema de login com dois níveis de acesso:
+A conclusão do trabalho foi postada em [https://games.dkmariano.com/index.php](https://games.dkmariano.com/index.php) e trata-se de uma aplicação web de um **sistema de gerenciamento de jogos**, permitindo que o usuário liste, ordene, busque e detalhe os jogos. A aplicação também possui um sistema de login com dois níveis de acesso:
 
 - **Administrador**:
   - Permissões: Adicionar, editar e deletar jogos e usuários.
@@ -30,7 +30,6 @@ O trabalho foi entregue em forma de uma aplicação web de um **sistema de geren
     - Usuário: `editor`
     - Senha: `editor`
 
-  A conclusão do trabalho foi postada em [https://games.dkmariano.com/index.php](https://games.dkmariano.com/index.php) 
 
 ### Ferramentas Utilizadas
 
