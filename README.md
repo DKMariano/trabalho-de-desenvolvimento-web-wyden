@@ -30,6 +30,8 @@ O trabalho foi entregue em forma de uma aplicação web de um **sistema de geren
     - Usuário: `editor`
     - Senha: `editor`
 
+  A conclusão do trabalho foi postada em [https://games.dkmariano.com/index.php](https://games.dkmariano.com/index.php) 
+
 ### Ferramentas Utilizadas
 
 Para a conclusão deste trabalho, foram utilizadas as seguintes ferramentas:
