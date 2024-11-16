@@ -45,5 +45,5 @@ Para a conclusão deste trabalho, foram utilizadas as seguintes ferramentas:
 - **Dimitrius Khouri Mariano dos Santos** - [Repositório](https://github.com/DKMariano)
 - **Gabriella Mizrach Benevides** - [Repositório](https://github.com/GabriellaMizrach)
 - **Lara Hellen Marques dos Santos Oliveira** - [Repositório](https://github.com/helleenlara) 
-- **Larissa de Sena Reis** - [Repositório](https://web.whatsapp.com/)
+- **Larissa de Sena Reis** - [Repositório](https://github.com/larissasenar)
 - **Yago Davi Cerqueira Nogueira** - [Repositório](https://github.com/YagoDavi)
